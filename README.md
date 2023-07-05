@@ -2,7 +2,13 @@
 
 ## Data visualization of Population of Zhejiang Province 
 
-The first subplot shows population dynamics in Zhejiang Province with bar and line charts. The second visualization compares rural and urban population trends. The third visualizes educational level distribution. The fourth illustrates gender distribution with a pie chart. The fifth compares per capita disposable income in urban and rural areas. The last set of visualizations depicts resident building distribution and medical resources.
+| File Name | Description |
+| --------- | ----------- |
+| [population.ipynb](./population.ipynb) | The first subplot shows population dynamics in Zhejiang Province with bar and line charts. |
+| [Residential.ipynb](./Residential.ipynb) | set of visualizations depicts resident building distribution and medical resources. |
+|[Education.ipynb](./Education.ipynb) | The third visualizes educational level distribution and gender distribution with a pie chart.|
+| [Capita.ipynb](./Capita.ipynb) | The fifth compares per capita disposable income in urban and rural areas. | 
+
 
 ### Instructions How to Run
 
@@ -18,6 +24,10 @@ The first subplot shows population dynamics in Zhejiang Province with bar and li
 
 ```
 !pip install pandas
+!pip install numpy
+!pip matplotlib
 
 ```
+
+
 
